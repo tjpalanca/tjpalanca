@@ -4,4 +4,4 @@ I’m a data person and all-around problem solver with experience building data 
 
 🕸 [Website](https://tjpalanca.com) | 🧑‍💻 [GitHub](https://github.com/tjpalanca) | 💼 [LinkedIn](https://linkedin.com/in/tjpalanca)
 
-Check out my 📗 [reading](https://reading.tjpalanca.com), 💭 [thoughts](https://thoughts.tjpalanca.com), and 📝 [notes](https://notes.tjpalanca.com) as well.
+Check out my 📗 [reading](https://reading.tjpalanca.com), 💭 [thoughts](https://tjpalanca.com/content/thoughts/), and 📝 [notes](https://tjpalanca.com/content/notes/) as well.
