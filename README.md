@@ -6,6 +6,4 @@ I’m currently at Titanium Birch as CFO, applying data solutions to finance, ac
 
 I’m a husband and father, living in Singapore, and from the Philippines.
 
-🕸 [Website](https://tjpalanca.com) | 🧑‍💻 [GitHub](https://github.com/tjpalanca) | 💼 [LinkedIn](https://linkedin.com/in/tjpalanca) | 🐘 <a rel="me" href="https://mastodon.social/@tjpalanca">Mastodon</a>
-
-Check out my 📗 [reading](https://tjpalanca.com/categories/reading/), 💭 [blog](https://tjpalanca.com/), and 📝 [notes](https://tjpalanca.com/categories/library/) as well.
+🕸 [Website](https://tjpalanca.com) | 💼 [LinkedIn](https://linkedin.com/in/tjpalanca) 
